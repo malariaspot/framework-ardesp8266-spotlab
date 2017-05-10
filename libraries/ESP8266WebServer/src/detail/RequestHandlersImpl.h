@@ -17,7 +17,7 @@ public:
         if (_method != HTTP_ANY && _method != requestMethod)
             return false;
 
-        if (requestUri != _uri)
+        if (requestUri != _uri || requestUri == "")
             return false;
 
         return true;

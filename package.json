@@ -2,6 +2,6 @@
     "name": "framework-arduinoespressif8266-40MHz",
     "description": "Arduino Wiring-based Framework (ESP8266 Core), adapted for 40MHz by SpotLab",
     "system": "*",
-    "url": "https://github.com/malariaspot/framework-arduinoespressif8266-40MHz/archive/40MHz.zip",
-    "version": "1.20300"
+    "url": "https://github.com/malariaspot/framework-arduinoespressif8266-40MHz/archive/servertest.zip",
+    "version": "1.20400.0-alpha.3"
 }
